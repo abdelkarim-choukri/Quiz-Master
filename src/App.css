@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+} 
+
+/* .ans-face {
+  
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  
+  cursor: pointer;
+}
+
+.custom-shape-divider-top-1673199348 {
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow:hidden;
+  line-height: 0;
+  opacity: 0.3;
+  z-index:1;
+}
+
+.custom-shape-divider-top-1673199348 svg {
+  
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 172px;
+  transform: rotateY(180deg);
+  
+  
+}
+
+.custom-shape-divider-top-1673199348 .shape-fill {
+  
+  fill: #7f79b9;
+  
+} */
+
